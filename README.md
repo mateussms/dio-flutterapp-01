@@ -1,2 +1,2 @@
-# dio-flutterapp-01
+# dio-flutterapp
 Desafio do primeiro proejto flutter DIO
